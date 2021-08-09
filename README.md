@@ -11,9 +11,9 @@
 
 | แอป | ดาวโหลด |
 | ------ | ------ |
-| SCB EASY 3.38.0  | [https://github.com/nukgaming/ottxOfjs4M/blob/main/scb-easy_3.38.04219.apk?raw=true][PlDb] |
-| Virtual Xposed | [https://github.com/nukgaming/ottxOfjs4M/blob/main/VirtualXposed_0.20.3.apk?raw=true][PlGh] |
-| HttpCanary | [https://github.com/nukgaming/ottxOfjs4M/blob/main/com.guoshi.httpcanary_2020-08-18.apk?raw=true][PlGd] |
+| SCB EASY 3.38.0  | https://github.com/nukgaming/ottxOfjs4M/blob/main/scb-easy_3.38.04219.apk?raw=true |
+| Virtual Xposed | https://github.com/nukgaming/ottxOfjs4M/blob/main/VirtualXposed_0.20.3.apk?raw=true |
+| HttpCanary | https://github.com/nukgaming/ottxOfjs4M/blob/main/com.guoshi.httpcanary_2020-08-18.apk?raw=true |
 
 - ติดตั้ง Virtual Xposed แล้ว HttpCanary และ SCB EASY
 - จากนั้นทำตาม video นี้ https://github.com/nukgaming/ottxOfjs4M/blob/main/video.mp4?raw=true
